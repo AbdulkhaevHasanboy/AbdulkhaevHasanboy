@@ -26,10 +26,6 @@ I specialize in building intelligent applications with a focus on:
 
 I create stunning 3D models and avatars with fluid animations, realistic character rigging, and immersive interactive experiences. My 3D work focuses on bringing characters to life through professional modeling, texturing, and animation techniques.
 
-### 🎤 Voice & Audio
-- **[voice](https://github.com/AbdulkhaevHasanboy/voice)** - Voice processing and integration
-- **[wav](https://github.com/AbdulkhaevHasanboy/wav)** - Audio file handling
-
 ### 💡 Other Projects
 - **[AdLink](https://github.com/AbdulkhaevHasanboy/AdLink)** - Advertising platform
 - **[Instagram](https://github.com/AbdulkhaevHasanboy/Instagram)** - Social media project
