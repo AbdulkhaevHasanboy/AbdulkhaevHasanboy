@@ -22,7 +22,6 @@ I specialize in building intelligent applications with a focus on:
 ### 🎭 3D Modeling & VRM Technology
 - **[gemini-vrm-live--4-](https://github.com/AbdulkhaevHasanboy/gemini-vrm-live--4-)** - VRM avatar with Gemini AI integration
 - **[VRM](https://github.com/AbdulkhaevHasanboy/VRM)** - VRM 3D model implementations
-- **[VRM_1](https://github.com/AbdulkhaevHasanboy/VRM_1)** - Advanced VRM project with web integration
 
 I create stunning 3D models and avatars with fluid animations, realistic character rigging, and immersive interactive experiences. My 3D work focuses on bringing characters to life through professional modeling, texturing, and animation techniques.
 
